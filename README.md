@@ -9,19 +9,19 @@
 [packer](https://github.com/wbthomason/packer.nvim)
 
 ```lua
-use "Alexis12119/nightly.nvim"
+use "r-yoshida1992/nightly.nvim"
 ```
 
 [vim-plug](https://github.com/junegunn/vim-plug)
 
 ```vim
-Plug 'Alexis12119/nightly.nvim'
+Plug 'r-yoshida1992/nightly.nvim'
 ```
 
 [lazy](https://github.com/folke/lazy.nvim)
 
 ```lua
-{ "Alexis12119/nightly.nvim" }
+{ "r-yoshida1992/nightly.nvim" }
 ```
 
 ## ⚙️ Configuration
