@@ -20,6 +20,7 @@ M.dark_colors = {
   color16 = "#0F1416",
   color17 = "#5A5D61",
   color18 = "#292E42",
+  color19 = "#00aa00",
   comment = "#404749",
   black = "#000000",
   background = "#141B1E",
