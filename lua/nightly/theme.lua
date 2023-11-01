@@ -56,7 +56,7 @@ function theme.setup()
     MoreMsg = { fg = p.color5 },
     MsgArea = { fg = p.foreground, bg = p.background },
     MsgSeparator = { fg = p.foreground, bg = p.background },
-    NonText = { fg = p.color1 },
+    NonText = { fg = p.color19 },
     Normal = { fg = p.foreground, bg = p.background },
     NormalFloat = { bg = p.background },
     NormalNC = { fg = p.foreground, bg = p.background },
@@ -106,7 +106,7 @@ function theme.setup()
     Visual = { bg = p.cursorline },
     VisualNOS = { bg = p.background },
     WarningMsg = { fg = p.color3, bg = p.background },
-    Whitespace = { fg = p.color1 },
+    Whitespace = { fg = p.color19 },
     WildMenu = { fg = p.color7, bg = p.color4 },
     lCursor = { fg = p.foreground, bg = p.foreground },
 
@@ -329,10 +329,10 @@ function theme.setup()
 
     -- telescope.nvim: https://github.com/nvim-telescope/telescope.nvim
     TelescopeMatching = { fg = p.color2 },
-    TelescopeSelection = { fg = p.color2, bg = p.bg },
+    TelescopeSelection = { fg = p.color3, bg = p.color19 },
     TelescopeMultiSelection = { bg = p.color16 },
-    TelescopePromptTitle = { fg = p.background, bg = p.color5 },
-    TelescopePreviewLine = { bg = p.background },
+    TelescopePromptTitle = { fg = p.background, bg = p.color4 },
+    TelescopePreviewLine = { bg = p.color19 },
     TelescopePromptPrefix = { fg = p.color2, bg = p.cursorline },
     TelescopePromptBorder = { fg = p.cursorline, bg = p.cursorline },
     TelescopePromptNormal = { fg = p.fg, bg = p.cursorline },
